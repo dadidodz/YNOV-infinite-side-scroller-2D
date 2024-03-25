@@ -1,0 +1,4 @@
+repository "infinite-side-scroller-2D@ClaadG@cloud"
+  path "/"
+    br "/main"
+    co "/main"
